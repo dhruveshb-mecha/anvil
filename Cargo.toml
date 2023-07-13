@@ -5,6 +5,9 @@ license = "MIT"
 name = "anvil"
 publish = false
 version = "0.0.1"
+repository = "https://github.com/dhruveshb-mecha/anvil"
+homepage ="https://github.com/dhruveshb-mecha/anvil"
+
 
 [dependencies]
 bitflags = "2.2.1"
